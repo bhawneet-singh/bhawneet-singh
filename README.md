@@ -1,5 +1,3 @@
-<div align="center">
- 
 # Hey, I'm Bhawneet 👋
  
 ### Full Stack Engineer · AI-Native SaaS · NES Emulator from Scratch
@@ -9,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawneet-nigaltiya)
 [![Portfolio](https://img.shields.io/badge/NES_Emulator-Live_Demo-FF0000?style=for-the-badge&logo=nintendo&logoColor=white)](#)
  
-</div>
  
 ---
  
@@ -18,8 +15,6 @@
 - 🏗️ **3.6 years** building complex, AI-powered enterprise SaaS products from the ground up
 - 🤖 I architect **LLM workflows** using AWS Bedrock, AgentCore & LangChain — from prompt microservices to Vision-based browser agents
 - 🕹️ I built a **fully functional NES emulator** in JavaScript from scratch — cycle-accurate 6502 CPU, PPU rasterizer in a Web Worker, APU via Web Audio API, and a custom debugger
-- 🎯 Currently targeting **Senior Full Stack / SDE-2 / SDE-3** roles at product-first companies
-- 🌍 Open to remote opportunities
  
 ---
  
