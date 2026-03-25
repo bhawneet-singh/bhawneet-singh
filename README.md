@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hey, I'm Bhawneet 👋
 
 ### Full Stack Engineer · AI-Native SaaS · NES Emulator from Scratch
@@ -9,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawneet-nigaltiya)
 [![Portfolio](https://img.shields.io/badge/NES_Emulator-Live_Demo-FF0000?style=for-the-badge&logo=nintendo&logoColor=white)](#)
 
-</div>
 
 ---
 
@@ -110,10 +107,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div style="display:flex">
 
-![Bhawneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhawneet-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
+![Bhawneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhawneet-singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhawneet-singh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
