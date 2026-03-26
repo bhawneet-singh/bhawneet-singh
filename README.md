@@ -15,8 +15,6 @@
 - 🏗️ **3.6 years** building complex, AI-powered enterprise SaaS products from the ground up
 - 🤖 I architect **LLM workflows** using AWS Bedrock, AgentCore & LangChain — from prompt microservices to Vision-based browser agents
 - 🕹️ I built a **fully functional NES emulator** in JavaScript from scratch — cycle-accurate 6502 CPU, PPU rasterizer in a Web Worker, APU via Web Audio API, and a custom debugger
-- 🎯 Currently targeting **Senior Full Stack / SDE-2 / SDE-3** roles at product-first companies
-- 🌍 Open to remote opportunities
 
 ---
 
@@ -115,10 +113,6 @@
 </div>
 
 ---
-
-## 📬 Let's Connect
-
-I'm open to **Senior Full Stack / SDE-2 / SDE-3** roles at product-first companies — especially those building in the AI/compliance/developer tooling space.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawneet-nigaltiya)
 
