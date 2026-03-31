@@ -4,8 +4,8 @@
 
 *Builds browser agents and AI workflows by day — reverse engineers retro hardware by night.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawneet-nigaltiya)
-[![Portfolio](https://img.shields.io/badge/NES_Emulator-Live_Demo-FF0000?style=for-the-badge&logo=nintendo&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawneetsingh)
+[![Portfolio](https://img.shields.io/badge/NES_Emulator-Live_Demo-FF0000?style=for-the-badge&logo=nintendo&logoColor=white)](#https://nes.bhwneetsinghnigaltiya.workers.dev/)
 
 
 ---
@@ -71,8 +71,8 @@
 - 🐛 **Custom Debugger** — real-time CPU state, memory maps, PPU inspection
 - 🌐 **Runs in the browser** — no install, no plugins, just open and play
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=nintendo&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#https://nes.bhwneetsinghnigaltiya.workers.dev/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF0000?style=for-the-badge&logo=nintendo&logoColor=white)](#https://github.com/bhawneet-singh/nes-emulator-demo)
 
 ---
 
